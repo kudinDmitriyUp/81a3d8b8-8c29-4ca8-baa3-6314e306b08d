@@ -40,7 +40,7 @@ export default function Home() {
             { name: "About", id: "about" },
             { name: "Contact", id: "contact" }
           ]}
-          logoSrc="https://pixabay.com/get/gfac6b2b9810380dacfc7da4557750c2586f8224286249725e2d2ac1e381c00ee527d404976e07f7eff211723f963bc765aab8b6e7c040a1680d2fdb0147c32c6_1280.jpg"
+          logoSrc="https://pixabay.com/get/gf4bcfb9c15e44a2dada7a14fd8c8d8a00d2cd619c201ba777c15ed44ee63f458d1ed96af1646e4eb20a38fbb0536a16a87855548996e5f148be578eae23bf887_1280.jpg"
           logoAlt="Grand Palace Hotel"
           brandName="Grand Palace Hotel"
         />
@@ -56,7 +56,7 @@ export default function Home() {
             { text: "Book Your Stay", href: "https://booking.grandpalace.com" },
             { text: "Explore Rooms", href: "rooms" }
           ]}
-          imageSrc="https://pixabay.com/get/g41c28d62ba0509b2634d8f5a191be78788d9e0bd2d1744a95964171e0fc53547d774bc36c32f28792d772825169587b9b637c1a306f6ec115c772d8766f1ec10_1280.jpg"
+          imageSrc="https://pixabay.com/get/ga79579fed859b7d760ab942d70de5ed507b2c37e7d4cc1f4715044354ace5612b608dfdef5dd1038fe44dc714d7d20207aecc0fe08272fc8401c32720e2844e0_1280.jpg"
           imageAlt="Grand Palace Hotel luxury lobby"
           imagePosition="right"
         />
@@ -105,7 +105,7 @@ export default function Home() {
               price: "$299/night",
               rating: 5,
               reviewCount: "1.2k",
-              imageSrc: "https://pixabay.com/get/gbd6e0f62369e9a079fd3ffa0282f6b93730cd0609613b35895c2ebdef7956f33d9d40422ea1b2ddc3ba329f11149bad00b1f261bb7eb68a19770a75289c51409_1280.jpg",
+              imageSrc: "https://pixabay.com/get/g502aca3fa97ae82e7c118748f394eebe0af530eadda3aa95c61f3cb06ebdfb7a743cc03232f5d75a3c6bf2e221080a7a12b325264fb4c91d75f446698268553d_1280.jpg",
               imageAlt: "Deluxe room with king bed"
             },
             {
@@ -115,7 +115,7 @@ export default function Home() {
               price: "$599/night",
               rating: 5,
               reviewCount: "856",
-              imageSrc: "https://pixabay.com/get/ge4502d7eb9e59dc09542d72c924f782f8dbc141e566919cf7d1e10b5e598dcc7f441422a0e0847b467400dd94f12fd73d9289113d530524ed561033debd1a2c0_1280.jpg",
+              imageSrc: "https://pixabay.com/get/g2de975947fb5f8b7974fbac8847ca03bd54c6ecfb2df15d93fba4d6f18db5f7c640f161b3e67c94655d25b382ba809ee6468bdf2b6011634c6f9666750fbbff6_1280.jpg",
               imageAlt: "Executive suite living area"
             },
             {
@@ -125,7 +125,7 @@ export default function Home() {
               price: "$1,299/night",
               rating: 5,
               reviewCount: "342",
-              imageSrc: "https://pixabay.com/get/g0a25a699337762e0f16fbb45196bd92757cbfed0bc0ddf053285415f53367ed79bee366337591362d21a83627bc592330975f3ca36ca90b08f2ec3337c0ca221_1280.jpg",
+              imageSrc: "https://pixabay.com/get/g5b1b342e552c072be1014b3d1b241282490b89f4846d882e88e54a7a2f2154d2f7bacdf654713dc0a06abd206416dc1a9db92bbc04b4c5e6316eb2a6daed98c3_1280.jpg",
               imageAlt: "Presidential penthouse suite"
             }
           ]}
@@ -200,21 +200,21 @@ export default function Home() {
               id: "1",
               name: "James Wellington",
               role: "General Manager",
-              imageSrc: "https://pixabay.com/get/g79991caba054b29cc894f8ecc6d0534ea509a8b9ff0514072538c85c37fd86d139db5d9005443a14f5399ab715aec4a8b45c1b23b7aac45d2797fb359157932b_1280.jpg",
+              imageSrc: "https://pixabay.com/get/ga691ccf8e7c567e56be09c95608e678e6c862adcfa46dc6516a9afffe55f450d7e94f59990c1e8b4131db7953872bb834a79d73179481f55719a54ecb6e7684d_1280.jpg",
               imageAlt: "James Wellington"
             },
             {
               id: "2",
               name: "Maria Santos",
               role: "Head Concierge",
-              imageSrc: "https://pixabay.com/get/g019b550663ed2ca8e60432fd414cedff519b3e6924cff65ee2d33cbda3f88817efebcb886497e260b9a2b7740ba067dade1a090434601074ec0aef261ab466d8_1280.jpg",
+              imageSrc: "https://pixabay.com/get/gc77d7b485af43cf65c9a3c08b38598d57277d020e99fba8a512f2aab022ca90fc1550ddc59928a90a685b92246e24aff61b1e49aee3fa5e3b6a291c182afb152_1280.jpg",
               imageAlt: "Maria Santos"
             },
             {
               id: "3",
               name: "Chef Antoine Dubois",
               role: "Executive Chef",
-              imageSrc: "https://pixabay.com/get/g31ae248bb3e94623b58abc0595ec508fd9630e713cbdae727c1fba76ac42108f13d2de5de917b81f17772cdec4ee3e5b5cbb0e49b18c14f667ddca52d8370d24_1280.jpg",
+              imageSrc: "https://pixabay.com/get/g8b676b1698984e81b0bdcc71a01597f765771c48d614e827481c038cc836c8db37427de9635f0c39ba8647952bb6ba2dd74bd363941ebe561cbcbf0ed074d363_1280.jpg",
               imageAlt: "Chef Antoine Dubois"
             }
           ]}
@@ -234,7 +234,7 @@ export default function Home() {
               name: "Sarah Mitchell",
               role: "CEO, Tech Innovations",
               testimonial: "The Grand Palace Hotel exceeded every expectation. The service was impeccable, the room was stunning, and the dining experience was world-class. Truly a five-star experience.",
-              imageSrc: "https://pixabay.com/get/g1500a4410ebf008d1c409d5b417ed6574d5c93d8304561f9c315ca6f7de27a07106898aa5a50d39f8914049872ede6f896f99d6a33b89f7befcca70e53e57a0b_1280.png",
+              imageSrc: "https://pixabay.com/get/g6745cb7e50f7c6bf7b171fccbb0366cb034634041db476a65dca3ab5984c37633e41e330aa029136c4b591edf774c3a0c9d121b9ac2d7680c8ff03f3c50fd6f3_1280.png",
               imageAlt: "Sarah Mitchell"
             },
             {
@@ -242,7 +242,7 @@ export default function Home() {
               name: "Robert Chen",
               role: "Investment Director",
               testimonial: "From the moment I arrived, I felt like royalty. The attention to detail and personalized service made my business trip memorable. I'll definitely be returning.",
-              imageSrc: "https://pixabay.com/get/gd91d57f218e969204c16875cbfe1810acd714484b1b8d9845d2c070d76a45d18d7f99a513e40396c02c74119560cdedb48e41eff45a03afe8b27d1823223b1b9_1280.jpg",
+              imageSrc: "https://pixabay.com/get/g14587fc7be1086b61bdcf456505fabca52259a366c5992c191719601bee5f1fad2cc9a664d9b670e1b91debb2a2b4ee9394a263f4e96798d282ad2a4b2c72d81_1280.jpg",
               imageAlt: "Robert Chen"
             },
             {
@@ -250,7 +250,7 @@ export default function Home() {
               name: "Emma & David Johnson",
               role: "Anniversary Celebration",
               testimonial: "Our 25th anniversary celebration was perfect thanks to the Grand Palace team. The romantic package, spa treatments, and special dinner created memories we'll treasure forever.",
-              imageSrc: "https://pixabay.com/get/g42c6a29b2cc6bb155790091f2dd55efdccaec7445947443bd3be10dcff33c23f9b7a47ca3592f8d794cf6a96c0467f9664c6d964af98ab15894740937358cbf2_1280.jpg",
+              imageSrc: "https://pixabay.com/get/gaf3345663e61c2aaf2f53bb54104cb5bb66ffaf7602d5183a7512b5a2a0c2e077cc0a87f8b8fe5cdd2b8ff668e37d62a488102e8cbbf5d9eb878752a2d1693cc_1280.jpg",
               imageAlt: "Emma and David Johnson"
             },
             {
@@ -258,7 +258,7 @@ export default function Home() {
               name: "Lisa Anderson",
               role: "Travel Blogger",
               testimonial: "As someone who stays in luxury hotels worldwide, I can confidently say Grand Palace Hotel sets the gold standard. Every detail is thoughtfully considered and perfectly executed.",
-              imageSrc: "https://pixabay.com/get/g2677447cb2ef919f746d9993dbf324652b31c726c0694b7b8691a43ca9594ba68f3bfee9007f9cdd3e1e202373e0f872dae1123869363a5f35ccc5b5939d4937_1280.png",
+              imageSrc: "https://pixabay.com/get/g320a567b6c78a73ef13d0f56e6137428a18e4f7b3248367e9b326e2af54cc40792ec5f4818fa201e8113c47c39a41a8c502190d71252d5b5531d705ad80bb0be_1280.png",
               imageAlt: "Lisa Anderson"
             },
             {
@@ -266,7 +266,7 @@ export default function Home() {
               name: "The Williams Family",
               role: "Family Vacation",
               testimonial: "Our family vacation was absolutely magical. The kids loved the pool, the parents enjoyed the spa, and we all loved the exceptional dining. Perfect for families seeking luxury.",
-              imageSrc: "https://pixabay.com/get/gf0f3d96dc476f1dd0dbc2c34bcd017b9e427c7b04126a24a2bb2419398f726ee2ff016f5fbc4f0066a1cfbc3118727acf553be731a02e52d13c1bbe206471f09_1280.jpg",
+              imageSrc: "https://pixabay.com/get/g993d8a7ef7f66dacdf1421bf18a7b55d4ab6f07683bd5f603e79c82233ca2434a6c6df442320a16a50d9425a31d592bb41257607abe5025f17be4730eb2d5f17_1280.jpg",
               imageAlt: "Williams Family"
             }
           ]}
@@ -279,14 +279,14 @@ export default function Home() {
           description="Join the exclusive network of luxury hospitality partners worldwide"
           textboxLayout="default"
           logos={[
-            "https://pixabay.com/get/g107fa6acd822be7ef5d137d31f330d652624ddcc77c1ddf8a393884e02e75ab7351543138f0c7d261b7cbe0dfab3a4e66fc6a409d8a0afb19fb9da7880a407af_1280.jpg",
-            "https://pixabay.com/get/g5e5a66eb9e44cb72c33a168b3fff6ebdbead70e4d8927869984cbdb02825d10401282b8c79fe08bc1645ada51ebe83a025e9a1b827ff89144e4c1e48a0282d8d_1280.jpg",
-            "https://pixabay.com/get/g1e81fb7ca7cc3fa3a379d05c6881e6b210f0b5069700e66f55f53e2831fba8e86931f0e7ecf46d355e75e0c7c8f907b0e351cbfec7c31fe0117c2ced83c3f008_1280.jpg",
-            "https://pixabay.com/get/g567ba8287ed03e96add9da8b5a664531d8174274c7de40f5ecd87cd90a48d3cd6bc8a2a90be99b4c2a900263f5a7e3debd8e4e5e2d49e46b555977761fbf844d_1280.jpg",
-            "https://pixabay.com/get/g752b42a9c76612e8680ae7d7d4db7fd8d2b30a5cbef3cb6911bc0841e5efd15fba0a1de27630b0dc865fc20e34ee06c859892169379eb7550e7ab0cf9a810c55_1280.jpg",
-            "https://pixabay.com/get/g75208a1a3d7f0cc87b4f4786c4a40973fdad4b9b4bf67b85fdc7f5eb25cbe51c7170a9425e3cbfd0134cabcaafdb628e1692e69e6e682040c6493ce79ffcae35_1280.jpg",
-            "https://pixabay.com/get/g019e65e4d2dfb9c9e5258302bd86c32585eb9d3e05d8bbf8c0df8461cb71b8c84a4d611b4b8cbdc3476b5db41da51fecbaaa2698d1231c544db66d24d961966e_1280.jpg",
-            "https://pixabay.com/get/geafad3e9965db4339654686ce13c8f20c1fe329d710cf07957720a5e56e793b55a6270ed7c4c80a50e77ee53718380d4e8fb3ef255e64d895d74bd990614e87d_1280.jpg"
+            "https://pixabay.com/get/ge5bef1465c36a054d8a9cafcf9bca21dbcf73663e454885c25c1029efdea9d9f4082aad68a34f27cdbe4dea7a09660d5171c96ce251a0b19afabd1adb3f454a3_1280.jpg",
+            "https://pixabay.com/get/gafb7396933f76601d983a4b71a0f158d675ad46dcdc394117b2ff77f1217fb03d1f1129630514bfd23b83117e22bfa4b9840fa99b3f6fcb3f9db7e2072106973_1280.jpg",
+            "https://pixabay.com/get/gc165e3b9cf43565f4cb819fadb5cb883c5b052519ab6f98cbf0ab4a8864a7aa7e0943292988e8b6d2926c02f30c2a151d52d048bcc1b385438de3298023100d2_1280.jpg",
+            "https://pixabay.com/get/gd881283afe915d293ae69d881c78db4651f746751e6bcf89259fc3bc3acce1b414710ea6a614db7fa22fe92b2c8acd8088fb1b621c4ffb2291f266b54936a261_1280.jpg",
+            "https://pixabay.com/get/gd4b05ef36d1fb7d251a758b0b372d820139335c9e7078d93d0eed8b0cd74254a62ed983bee28b517331ec7fbce6daa72c71fa521f7646fd7eaa37f791f561e48_1280.jpg",
+            "https://pixabay.com/get/g36b559fe8afc2cea047be8f78c08b8f281c76abfaf36367c05f5b051cf5a74aeb4a4d8f8b987fb6f68042226673a7a9ae1e2c7a9f81a428b88dca4e551e4fe94_1280.jpg",
+            "https://pixabay.com/get/gb0ac0b900392dbab3934e56a02c51250945c91a3bc91c543ea1e794abc267ee04d15c00e10cfd5b730a2ae705b724d2326cc753e2119542483c16e0fb908dca3_1280.jpg",
+            "https://pixabay.com/get/gf1c2a81e2c0aeeb592bdb38c11d7ab639d054427decfea87b89f936804c4b44619611d08ef56d8264264cad826243cd5ad68e44592da47e28fbd4d411adf4991_1280.jpg"
           ]}
         />
       </div>
@@ -340,10 +340,10 @@ export default function Home() {
               category: "Interior Design",
               title: "Luxury Room Design Trends 2024",
               excerpt: "Discover the latest trends in luxury hotel room design and how we're incorporating them into our renovated suites.",
-              imageSrc: "https://pixabay.com/get/g155f42389f305447f0bc47c943b2a920393210520ef4b8b8cc3fc18c0cf04a04c65e7e2eb6040436f1e3bf3ee5de9b5cbadb1aeb610748fabbd02c47355c4589_1280.jpg",
+              imageSrc: "https://pixabay.com/get/gbd319c8c70049711448d263c5d5b1f1d2b81b543cfb3bc3bbc7ab3d82756410fa2c02e34cc89b2a5cb83ca96874a381d0a828015dcbc291fc2a4c657d12984e2_1280.jpg",
               imageAlt: "Luxury hotel room interior",
               authorName: "Isabella Martinez",
-              authorAvatar: "https://pixabay.com/get/g9e4ffcdfbadd2675fa837a19401e1a21de38e66acf176f8843157ff2be7e192b26c30ec06523cceaf2f68277068a898315ffb2fb2f52a8a7e9ce31cc40453186_1280.jpg",
+              authorAvatar: "https://pixabay.com/get/g3166ee776696e357a17be5af105309f04a92fbfb8a5b584929f0ac7cd1dd723b50cb85ddc529ecb6b606be105c3602175fc14893ece745ff600f6367034d90e9_1280.jpg",
               date: "15 Jan 2024"
             },
             {
@@ -351,10 +351,10 @@ export default function Home() {
               category: "Dining",
               title: "Farm-to-Table Excellence",
               excerpt: "Learn about our commitment to sustainable dining and how our chef sources the finest local ingredients for our restaurant.",
-              imageSrc: "https://pixabay.com/get/gf7b15bd62e2a547f30fb9737732d4c87e8596865f2f58aaa946050474c239f94312422a79c0452489d3500099b54b949fded9e163bdb05ebd84dd943caea7303_1280.jpg",
+              imageSrc: "https://pixabay.com/get/gadec9a150d53aeab5c7d59215d0ab0185845f0880d57f342c8aeec0cdf9ce9b65740f3994c4633620a81296f70c39387dcf3221a55fad6e4e88b13b2d9d12da3_1280.jpg",
               imageAlt: "Fine dining restaurant",
               authorName: "Isabella Martinez",
-              authorAvatar: "https://pixabay.com/get/g9e4ffcdfbadd2675fa837a19401e1a21de38e66acf176f8843157ff2be7e192b26c30ec06523cceaf2f68277068a898315ffb2fb2f52a8a7e9ce31cc40453186_1280.jpg",
+              authorAvatar: "https://pixabay.com/get/g3166ee776696e357a17be5af105309f04a92fbfb8a5b584929f0ac7cd1dd723b50cb85ddc529ecb6b606be105c3602175fc14893ece745ff600f6367034d90e9_1280.jpg",
               date: "10 Jan 2024"
             },
             {
@@ -362,10 +362,10 @@ export default function Home() {
               category: "Wellness",
               title: "Ultimate Spa Relaxation Guide",
               excerpt: "Discover our signature spa treatments and wellness programs designed to rejuvenate your mind, body, and spirit.",
-              imageSrc: "https://pixabay.com/get/g14e756ee6de9307204d509c43f439e677f197cf1250cff28d0c7f4b6b58a0311ad07ff26f96fa7f956d552ece3d6a2767694e702aa949da1a2d06510d25cda0b_1280.jpg",
+              imageSrc: "https://pixabay.com/get/g86cd16dd5935084de25fbadfd46898bbf3e25fe82a4f05ae6f9dc665a73828f63beb0cdafc7b7ec5e9eb69d1b115a4cd5b0ef291b33b427d01a5519ba73e1dae_1280.jpg",
               imageAlt: "Luxury spa treatment room",
               authorName: "Isabella Martinez",
-              authorAvatar: "https://pixabay.com/get/g9e4ffcdfbadd2675fa837a19401e1a21de38e66acf176f8843157ff2be7e192b26c30ec06523cceaf2f68277068a898315ffb2fb2f52a8a7e9ce31cc40453186_1280.jpg",
+              authorAvatar: "https://pixabay.com/get/g3166ee776696e357a17be5af105309f04a92fbfb8a5b584929f0ac7cd1dd723b50cb85ddc529ecb6b606be105c3602175fc14893ece745ff600f6367034d90e9_1280.jpg",
               date: "5 Jan 2024"
             }
           ]}
@@ -382,14 +382,19 @@ export default function Home() {
             { name: "phone", type: "tel", placeholder: "Phone Number", required: false },
             { name: "checkin", type: "date", placeholder: "Check-in Date", required: false }
           ]}
-          textarea={{ name: "message", placeholder: "How can we help make your stay exceptional?", rows: 5, required: true }}
+          textarea={{
+            name: "message",
+            placeholder: "How can we help make your stay exceptional?",
+            rows: 5,
+            required: true
+          }}
           buttonText="Send Message"
         />
       </div>
 
       <div id="footer" data-section="footer">
         <FooterLogoEmphasis
-          logoSrc="https://pixabay.com/get/gfac6b2b9810380dacfc7da4557750c2586f8224286249725e2d2ac1e381c00ee527d404976e07f7eff211723f963bc765aab8b6e7c040a1680d2fdb0147c32c6_1280.jpg"
+          logoSrc="https://pixabay.com/get/gf4bcfb9c15e44a2dada7a14fd8c8d8a00d2cd619c201ba777c15ed44ee63f458d1ed96af1646e4eb20a38fbb0536a16a87855548996e5f148be578eae23bf887_1280.jpg"
           logoAlt="Grand Palace Hotel"
           logoText="Grand Palace Hotel"
           columns={[

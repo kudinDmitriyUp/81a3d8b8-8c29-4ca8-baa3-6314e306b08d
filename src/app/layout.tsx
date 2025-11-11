@@ -78,22 +78,28 @@ const nunito = Nunito({
 export const metadata: Metadata = {
   title: "Grand Palace Hotel - Luxury 5-Star Accommodation & Fine Dining",
   description: "Experience unparalleled luxury at Grand Palace Hotel. Premium rooms, world-class amenities, fine dining, spa services, and exceptional hospitality in an elegant setting.",
-  keywords: ["luxury hotel", "5-star accommodation", "premium suites", "fine dining", "spa wellness", "business hotel", "romantic getaway", "luxury hospitality"],
+  keywords: "luxury hotel, 5-star accommodation, premium suites, fine dining, spa wellness, business hotel, romantic getaway, luxury hospitality",
+  metadataBase: new URL("https://grandpalace.com"),
+  alternates: {
+    canonical: "https://grandpalace.com"
+  },
   openGraph: {
     title: "Grand Palace Hotel - Luxury 5-Star Accommodation",
     description: "Experience unparalleled luxury with premium rooms, world-class amenities, and exceptional hospitality.",
     siteName: "Grand Palace Hotel",
     type: "website",
-    images: [{
-      url: "https://pixabay.com/get/g41c28d62ba0509b2634d8f5a191be78788d9e0bd2d1744a95964171e0fc53547d774bc36c32f28792d772825169587b9b637c1a306f6ec115c772d8766f1ec10_1280.jpg",
-      alt: "Grand Palace Hotel luxury lobby"
-    }]
+    images: [
+      {
+        url: "https://pixabay.com/get/ga79579fed859b7d760ab942d70de5ed507b2c37e7d4cc1f4715044354ace5612b608dfdef5dd1038fe44dc714d7d20207aecc0fe08272fc8401c32720e2844e0_1280.jpg",
+        alt: "Grand Palace Hotel luxury lobby"
+      }
+    ]
   },
   twitter: {
     card: "summary_large_image",
     title: "Grand Palace Hotel - Luxury 5-Star Accommodation",
     description: "Experience unparalleled luxury with premium rooms, world-class amenities, and exceptional hospitality.",
-    images: ["https://pixabay.com/get/g41c28d62ba0509b2634d8f5a191be78788d9e0bd2d1744a95964171e0fc53547d774bc36c32f28792d772825169587b9b637c1a306f6ec115c772d8766f1ec10_1280.jpg"]
+    images: ["https://pixabay.com/get/ga79579fed859b7d760ab942d70de5ed507b2c37e7d4cc1f4715044354ace5612b608dfdef5dd1038fe44dc714d7d20207aecc0fe08272fc8401c32720e2844e0_1280.jpg"]
   },
   robots: {
     index: true,
